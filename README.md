@@ -4,7 +4,7 @@ The <b> Weather App </b> is a Next.js-based application designed to provide real
 
 ## Quick Demo
 <ul>
-  <li><b>Live Link </b>- </li>
+  <li><b>Live Link </b>- https://weather-app-nextjs-delta.vercel.app/ </li>
 </ul>
 
 ## Tech Stack
