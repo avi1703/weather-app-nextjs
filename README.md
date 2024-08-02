@@ -29,7 +29,7 @@ npm install
 ```bash
 npm run dev
 ```
-**4.Open Your Preferred Browser and Navigate to:**
+**4. Open Your Preferred Browser and Navigate to:**
 ```bash
 http://localhost:3000
 ```
